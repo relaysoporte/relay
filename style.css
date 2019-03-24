@@ -126,6 +126,7 @@ footer .contenedor {
 }
 
 #banner h2 {
+    margin-top: -13%;
     font-size: 28px;
 }
 
@@ -403,7 +404,7 @@ header label {
 }
 .anuncio h3{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 30px;
+    font-size: 20px;
     
     text-align: center;
     color: #fff;
@@ -443,7 +444,7 @@ header label {
     padding-top: 7px;
     padding-left: 20px;
     margin: auto;
-    width: 430px;
+    width: 70%;
     height: 200px; 
     padding-bottom: 20px; 
    
